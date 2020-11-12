@@ -1,0 +1,1 @@
+docker build --tag l0ginx/tspace-presto:1.1 .
